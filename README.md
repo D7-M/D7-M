@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, NULL</h1>
+<h1 align="center">Hi there</h1>
 <h3 align="center">0x0,0x1, Null Cyber Security And Reverse Engineer.</h3>
 
 <p align="center">
