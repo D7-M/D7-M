@@ -1,5 +1,5 @@
-<h1 align="center">Hi there</h1>
-<h3 align="center">0x0,0x1, Null Cyber Security And Reverse Engineer.</h3>
+<h1 align="center">Hi, Null</h1>
+<h3 align="center"> - Cyber Security And Reverse Engineer.</h3>
 
 <p align="center">
   <img width="460" height="300" src="https://cdn.discordapp.com/attachments/951456122517205022/1086138916689690635/8e.gif">
