@@ -5,7 +5,7 @@
   <img width="460" height="300" src="https://cdn.discordapp.com/attachments/951456122517205022/1086138916689690635/8e.gif">
 </p>
 Profile Visitors
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d7-m&label=Profile%20views&color=0e75b6&style=flat" alt="d7-m" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=d7-m&label=Profile%20views&color=0e75b6&style=flat" alt="d7-m" /> </p>
 
 <p align="left"> <a href="https://twitter.com/real0x00" target="blank"><img src="https://img.shields.io/twitter/follow/real0x00?logo=twitter&style=for-the-badge" alt="real0x00" /></a> </p>
 
